@@ -1,0 +1,1 @@
+python main.py  faster_rcnn_r50_fpn_1x_coco.py faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth res50_coco_256x192.py res50_coco_256x192-ec54d7f3_20200709.pth --video-path test.mp4 --out-video-root . --bbox-thr 0.8 --show
